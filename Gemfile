@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem "paperclip", "~> 4.3"
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
 # Use sqlite3 as the database for Active Record
@@ -23,6 +23,13 @@ gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
+gem 'country_select'
+
+gem 'simple_form', '~> 3.1.0' 
+
+gem "paperclip", "~> 4.3"
+
+gem 'bootstrap-sass', '~> 3.3.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
