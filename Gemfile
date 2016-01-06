@@ -30,8 +30,10 @@ gem 'simple_form', '~> 3.1.0'
 gem "paperclip", "~> 4.3"
 
 gem 'bootstrap-sass', '~> 3.3.5'
+
+gem 'bootstrap_form'
 # Use ActiveModel has_secure_password
-# gem 'bcrypt', '~> 3.1.7'
+gem 'bcrypt', '~> 3.1.7'
 
 # Use Unicorn as the app server
 # gem 'unicorn'

@@ -1,0 +1,11 @@
+<h1> Users Form </h1>
+
+email : <%= form_for @user do |f| %>
+
+password : <%= f.password_field :password %>
+
+password confirmation : <%= f.password_field :password_confirmation %>
+
+<%= f.submit %>
+
+<% end %>
