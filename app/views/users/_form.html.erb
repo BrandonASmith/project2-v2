@@ -1,6 +1,8 @@
 <h1> Users Form </h1>
 
-email : <%= form_for @user do |f| %>
+<%= form_for @user do |f| %>
+
+email : <%= f.text_field :email %>
 
 password : <%= f.password_field :password %>
 

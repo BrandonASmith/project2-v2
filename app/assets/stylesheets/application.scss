@@ -22,6 +22,9 @@
 body {  
   background-color: #fafafa;
   font-family: proxima-nova, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  text-align: center;
+    background-image: url("thailand.jpg");
+    background-repeat: no-repeat;
 }
 
 .navbar-brand {
@@ -95,4 +98,8 @@ body {
 .edit-links {
   margin-top: 20px;
   margin-bottom: 40px;
+}
+
+h1{
+  font-family: "Raleway", Arial, sans-serif;
 }
