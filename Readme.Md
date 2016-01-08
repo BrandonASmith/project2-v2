@@ -9,13 +9,13 @@ Ruby, Rails, JS, CSS, HTML, Git, Heroku, Gems, Google Maps API, Bootsrap
 Started by making Posts model/ controller/ views. Followed by Users. Then I used a paperclip gem to allow photo posting. Then I made sessions controller/ views and used simple form for logins. Used Bootsrap for my navbar/ drop down and my custom login form.
 
 #Login Page
-![](/Users/brandon/Desktop/1.png)
+![](/Users/brandon/Desktop/project2/Scenic/app/assets/images/1.png)
 
 #After login, Posts Feed
-![](/Users/brandon/Desktop/2.png)
+![](/Users/brandon/Desktop/project2/Scenic/app/assets/images/2.png)
 
 #Click on post, view post actions
-![](/Users/brandon/Desktop/3.png)
+![](/Users/brandon/Desktop/project2/Scenic/app/assets/images/3.png)
 
 link to deployed app on heroku
 
