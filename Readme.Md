@@ -20,3 +20,12 @@ Started by making Posts model/ controller/ views. Followed by Users. Then I used
 link to deployed app on heroku
 
 http://glacial-atoll-8387.herokuapp.com/
+
+#Devise
+I attempted to user Devise to give users a unique username that was not their email address. Devise helps you give your interactions some extra personality. 
+
+In the Devise documentation, they actually recomend you dont use Devise in your first experience with Rails authentication. I should have listened.
+
+I experienced some road blocks after instaling the gems. Once I had dont that, I couldnt start my rails server. Not sure if the issues were related, but I reverted back to an old branch.
+
+
