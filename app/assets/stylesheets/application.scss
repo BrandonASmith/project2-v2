@@ -21,23 +21,26 @@
 
 body {  
   background-color: #fafafa;
-  font-family: proxima-nova, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-family: "Raleway", Arial, sans-serif;
   text-align: center;
-    background-image: url("thailand.jpg");
-    background-repeat: no-repeat;
+  background: image-url("thailand.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .navbar-brand {
   a {
-    color: #125688;
+    color: #aaaaaa;
   }
 }
 
 .navbar-default {
-  background-color: #fff;
-  height: 54px;
+  background-color: #000000;
+  height: 55px;
   .navbar-nav li a {
-    color: #125688;
+    color: #aaaaaa;
   }
 }
 
@@ -75,8 +78,8 @@ body {
 }
 
 .image {
-  border-bottom: 1px solid #eeefef;
-  border-top: 1px solid #eeefef;
+  border-bottom: 1px solid #aaaaaa;
+  border-top: 1px solid #aaaaaa;
 }
 
 .caption {
@@ -91,7 +94,7 @@ body {
   margin: 20px auto;
   background-color: #fff;
   padding: 40px;
-  border: 1px solid #eeefef;
+  border: 1px solid #aaaaaa;
   border-radius: 3px;
 }
 
