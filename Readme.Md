@@ -16,5 +16,7 @@ Started by making Posts model/ controller/ views. Followed by Users. Then I used
 
 #Click on post, view post actions
 ![](/Users/brandon/Desktop/3.png)
-	
-	
+
+link to deployed app on heroku
+
+http://glacial-atoll-8387.herokuapp.com/
